@@ -1,0 +1,2 @@
+# ghzmdr.github.io
+Redirect
