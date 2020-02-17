@@ -1,2 +1,2 @@
 # ghzmdr.github.io
-Redirect
+Redirects to [https://vincent.codes](https://vincent.codes)
